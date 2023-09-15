@@ -1,0 +1,15 @@
+/* Button styling */
+.button {
+    background-color: #FFF200; /* Change to your desired button background color */
+    color: black; /* Change to your desired button text color */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #f4f7c1; /* Change to your desired button background color on hover */
+  }
+  
