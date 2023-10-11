@@ -1,0 +1,15 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    margin: 40px;
+    margin-top: 0px;
+  }
+  
+  li {
+    list-style-type: none;
+    color: white;
+  }

@@ -1,0 +1,29 @@
+.card {
+    flex-wrap: wrap; 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    background-color: #fff;
+    text-align: center;
+    display: inline-block; 
+    width: 25%; 
+    margin: 10px; 
+
+  }
+
+  .card-section.centered {
+    justify-content: center;
+  }
+  .card-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start; /* Align items at the top */
+    gap: 16px; /* Adjust the gap between cards as needed */
+    border-radius:5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+
+  
